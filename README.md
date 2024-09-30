@@ -15,17 +15,3 @@ My name is Bhautik Dudhat, and I am a Mern-stack developer from India.
   <img src="https://img.shields.io/badge/nuxtjs-2EC866?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="nuxt.js"/>
 </div>
 <br></br>
-
-### :globe_with_meridians: Socials
-
-<div id="badges">
-   <a href="https://www.linkedin.com/in/mozhgan-kabki-192335179?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0747a6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-   </a>
-</div>
-<br></br>
-
-### :fire: My Stats
-
-<img src="https://komarev.com/ghpvc/?username=mozhgan-k&style=flat-square&color=B31312" alt=""/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mozhgan-k&theme=dark&card_width=900" alt="GitHub Streak" /></a>
