@@ -2,6 +2,6 @@
 
 ### Hey guys :smiley_cat:
 
-My name is Bhautik Dudhat, and I am a Mern-stack developer from India.
+My name is Bhautik Dudhat, and I am a full-stack developer from India.
 <br>
 <br></br>
